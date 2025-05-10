@@ -1,3 +1,7 @@
-git add requirements.txt
-git commit -m "Add reportlab to requirements"
-git push
+flask==2.3.3
+openai==1.30.1
+requests==2.31.0
+python-dotenv==1.0.1
+moviepy==1.0.3
+gTTS==2.5.1
+gunicorn==21.2.0
