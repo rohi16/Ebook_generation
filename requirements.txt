@@ -1,3 +1,3 @@
-requests==2.31.0
-flask==2.2.5
-pandas==1.5.3
+git add requirements.txt
+git commit -m "Add reportlab to requirements"
+git push
